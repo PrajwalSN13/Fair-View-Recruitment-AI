@@ -4,7 +4,7 @@
 
 ---
 
-## Table of ContentS
+## Table of Contents
 
 - [Overview](#overview)  
 - [Features](#features)  
