@@ -3,7 +3,7 @@
 **FairView** is an AI-driven recruitment evaluation platform designed to promote fairness, transparency, and efficiency in the hiring process. By leveraging advanced NLP techniques and AI models, FairView evaluates both candidates and interviewers to reduce bias and improve decision-making quality.
 
 ---
-## Table of Contents
+## Table of Contentss
 
 - [Overview](#overview)  
 - [Features](#features)  
